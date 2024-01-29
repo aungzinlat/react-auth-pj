@@ -1,0 +1,10 @@
+export { default as HomePage } from "./Home.page.jsx";
+export { default as DashboardPage } from "./dashboard/Dashboard.page.jsx";
+export { default as SideBar } from "./dashboard/Sidebar.jsx";
+export { default as BlogPage } from "./dashboard/module/Blog.page.jsx";
+export { default as InventoryPage } from "./dashboard/module/Inventory.page.jsx";
+export { default as ProfilePage } from "./dashboard/module//Profile.page.jsx";
+export { default as UserPage } from "./dashboard/module//User.page.jsx";
+export { default as LoginPage } from "./Auth/Login.page.jsx";
+export { default as RegisterPage } from "./Auth/Register.page.jsx";
+export { default as AdminPage } from "./admin/Admin.page.jsx";
