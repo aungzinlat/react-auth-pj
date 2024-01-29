@@ -12,6 +12,7 @@ import {
   RegisterPage,
   UserPage,
 } from "./page";
+import { API_URL } from "./lib/constant";
 
 const App = () => {
   return (
