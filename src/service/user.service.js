@@ -1,4 +1,3 @@
-import { useState } from "react";
 import { api } from "./baseurl";
 
 export const Auth = async (arg, form) => {

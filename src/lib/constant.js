@@ -1,1 +1,2 @@
-export const API_URL = `${location.origin}/api/`;
+export const API_URL = `https://fakestoreapi.com/`;
+// export const API_URL = `http://localhost:3001/`;
